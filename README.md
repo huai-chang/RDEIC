@@ -1,1 +1,1 @@
-# Accelerating Diffusion-Based Extreme Image Compression with Relay Diffusion
+# Accelerating Diffusion-Based Extreme Image Compression with Relay Residual Diffusion
