@@ -1,6 +1,6 @@
 # Diffusion-based Extreme Image Compression with Compressed Feature Initialization
 
-> [Zhiyuan Li](https://github.com/huai-chang), Yanhui Zhou, [Hao Wei](https://github.com/cshw2021), Chenyang Ge, Ajmal Mian<br>
+> [Zhiyuan Li](https://github.com/huai-chang), Yanhui Zhou, [Hao Wei](https://github.com/cshw2021), Chenyang Ge, [Ajmal Mian](https://research-repository.uwa.edu.au/en/persons/ajmal-mian)<br>
  
 <p align="center">
     <img src="assets/RDEIC.png" style="border-radius: 0px"><br>
