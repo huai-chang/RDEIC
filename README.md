@@ -17,6 +17,7 @@
 <details> <summary> Balance between smoothness and sharpness </summary>
 <p align="center">
     <img src="assets/ss.png" style="border-radius: 0px"><br>
+    <img src="assets/ss_1.png" style="border-radius: 0px"><br>
 </p>
 </details>
 
@@ -40,8 +41,8 @@
 </details> 
 
 ## <a name="todo"></a>:memo: TODO
-- [] Release code
-- [] Release pretrained models
+- [ ] Release code
+- [ ] Release pretrained models
 
 ## <a name="acknowledgement"></a>:heart: Acknowledgement
 This work is based on [DiffEIC](https://github.com/huai-chang/DiffEIC) and [RelayDiffusion](https://github.com/THUDM/RelayDiffusion), thanks to their invaluable contributions.
